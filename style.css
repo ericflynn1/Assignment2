@@ -1,0 +1,201 @@
+
+body {
+  background-color: white;
+  color: white;
+}
+header {
+  padding: 10px 80px 7px 15px;
+  position: relative;
+  background: black;
+  color: white;
+  font-family: Georgia, Times, serif;
+  font-style: italic;
+}
+header h1,
+header p {
+  display: inline-block;
+}
+header h1 {
+  margin-bottom: 5px;
+}
+header p {
+  color: lightgrey;
+}
+header p a {
+  color: teal;
+  border-bottom: 1px dotted;
+  text-align: center;
+  position: relative;
+}
+}
+.cf:before,
+.cf:after {
+  content: " ";
+  display: table;
+}
+@media all and (min-width: 960px) {
+  .entry {
+    float: left;
+    width: 50%;
+  }
+  .entry.wide {
+    width: 100%;
+  }
+  .entry.threes {
+    width: 33.333%;
+  }
+}
+#camera {
+  background: #ffa500;
+}
+#camera div {
+  width: 300px;
+  height: 130px;
+  margin-left: -150px;
+  margin-top: -65px;
+#bloody-mary {
+  background: #b0e0e6;
+}
+#bloody-mary div {
+#bloody-mary div:before {
+  
+#bloody-mary div:after {
+}
+#cpt-america {
+  background: #899d4e;
+}
+#breakfast {
+  background: #008b8b;
+}
+#battery {
+  background: black;
+}
+
+#marshmallow {
+  background: #66cdaa;
+}
+#sushi {
+  background: #87ceeb;
+}
+#brazil {
+  background: #f0e68c;
+}
+#soccer {
+  background: #afeeee;
+}
+#key {
+  background: #f7f7f7;
+}
+#mickey-hat {
+  background: #ffb6c1;
+}
+#hobbit-door {
+  background: #d2b48c;
+}
+#tardis {
+  background: #2f4f4f;
+}
+#marker {
+  background: #dcdcdc;
+}
+#crayon {
+  background: #f3c114;
+}
+#moleskine {
+  background: #84c3c9;
+}
+#macarons {
+  background: #eee;
+}
+#mario-tube {
+  background: #8cb4ff;
+}
+#mario-mushroom {
+  background: #74ceff;
+}
+#cupcake {
+  background: #ffc0cb;
+}
+#vacancy {
+  background: #111;
+}
+#candy-apple {
+  background: #cbe3ed;
+}
+#corn-dog {
+  background: #ffe4c4;
+}
+#shirt-tag {
+  background: #666;
+}
+#button {
+  background: #555;
+}
+#luggage-tag1 {
+  background: #87ceeb;
+}
+#luggage-tag2 {
+  background: #f6dfc6;
+}
+#grand-budapest {
+  background: #efabb3;
+}
+#royal-tenenbaums {
+  background: #a86e4a;
+}
+#moonrise-kingdom {
+  background: #deb887;
+}
+#lightsaber-darth {
+  background: #aaa;
+}
+#lightsaber-luke {
+  background: #f7f7f7;
+}
+#bb8 {
+  background: #444;
+} 
+#pizza-works {
+  background: #fff8dc;
+}
+#pizza-marg {
+  background: #ffebcd;
+} 
+#cassette {
+  background: #ccc;
+}
+#graham-cracker {
+  background: #afeeee;
+}
+#marshmallow2 {
+  background: #97e9e9;
+}
+#chocolate {
+  background: #7ce3e3;
+}
+#cactus1 {
+  background: #f5deb3;
+}
+#cactus2 {
+  background: #f2d399;
+}
+#cactus3 {
+  background: #eec77f;
+}
+#inner-tube {
+  background: #87ceeb;
+}
+#embroidery {
+  background: #faf0e6;
+}
+#zipper {
+  background: #4e6590;
+}
+#jeans-pocket {
+  background: #5872a3;
+}
+#ecto-1 {
+  background: #ccc;
+#stay-puft {
+  background: #bbb;
+}
